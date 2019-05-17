@@ -1,3 +1,6 @@
+#Group Members: Sebastian Baixas, Joaquin Fernandez
+
+
 # First run, uncomment all install.packages, select them all and execute them
 
 # install.packages("tm")
